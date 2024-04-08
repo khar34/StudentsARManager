@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QuanLiKetQuaHocTapSinhVien:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuanLiKetQuaHocTapSinhVien_jar</output-path>
+    <root id="archive" name="ComputerRoomManager.jar">
+      <element id="module-output" name="QuanLyKetQuaHocTapSinhVien" />
+    </root>
+  </artifact>
+</component>
