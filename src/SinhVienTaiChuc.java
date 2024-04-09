@@ -45,6 +45,7 @@ public class SinhVienTaiChuc extends SinhVien{
 		tieude();
 		super.output();
 		System.out.printf(" %-30s |", noiLKDT);
+		outputListKetQua();
 	}
 	
 	public static void tieude() {
