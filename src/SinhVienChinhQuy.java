@@ -22,6 +22,7 @@ public class SinhVienChinhQuy extends SinhVien {
     public void output() {
         tieude();
         super.output();
+        outputListKetQua();
     }
 
     public static void tieude() {
